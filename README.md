@@ -40,9 +40,4 @@ Dependencies
 
     g++ compiler (C++17 or higher)
     pthread library for multithreading support
-
-### Acknowledgments
-1. https://en.wikipedia.org/wiki/Network_simulation
-2. https://youtu.be/QRvDlB8sJX4?si=knhXJOvJ4jEJUmnj
-3. Claude
     
